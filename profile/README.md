@@ -7,7 +7,7 @@
     <p align="center"><strong>Central indonesia developer team</p>
     <p align="center">
       <a href="https://discord.io/centralffa">
-        <p>Join Discord</p>
+        <p align="center">Join Discord</p>
       </a>
     </p>
   </a>
