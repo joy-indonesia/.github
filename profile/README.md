@@ -1,14 +1,16 @@
-<h1 align="center">Central Indonesia</h1>
+<h1 align="center">Joy Indonesia</h1>
 <p align="center">
-  <a href="https://Central-Indonesia.github.io/">
-    <img src="https://cdn.discordapp.com/attachments/896416814861537300/896653271303872542/central_berawan.png">
+  <a href="https://github.com/joy-indonesia">
+    <img src="https://avatars.githubusercontent.com/u/99257006?s=350&v=4">
   </a>
     <hr>
-    <p align="center"><strong>Central indonesia developer team</p>
     <p align="center">
-      <a href="https://discord.io/centralffa">
-        <p align="center">Join Discord</p>
-      </a>
+       <p align="center">
+        This is joy framework, here you will find our repository for FiveM and other
+       </p>
+       <p align="center">
+        The ruler of this server is a fun and creative
+       </p>
     </p>
   </a>
 </p>
